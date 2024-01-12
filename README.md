@@ -2,7 +2,7 @@
 #Linux Online Compiler
 1) https://www.tutorialspoint.com/linux_terminal_online.php
 2)  https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192
-#File Commands:
+# File Commands:
  * ls – directory listing
  * ls -al – formatted listing with hidden files
  * cd dir - change directory to dir
